@@ -6,16 +6,15 @@ Soy **Data Analyst** con formación en sociología, apasionada por los datos, la
 ### 🚀 Tecnologías y herramientas
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
 📊 Power BI, Excel Avanzado  
-🗃️ SQL, PostgreSQL  
-☁️ Google Cloud, Docker, Streamlit  
+🗃️ SQL, PostgreSQL   
 
 ### 🧠 Proyectos destacados
 
 ### 🌱 Actualmente aprendiendo
-Machine Learning aplicado a datos reales.
+
 
 ### 📫 Cómo contactarme
-📧 paolajaviera23@gmail.com
+📧 paolaj.silvajara@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/paolasilvajara)
 
 ## 🇬🇧 About me
@@ -25,15 +24,13 @@ I'm a **Data Analyst** with a background in Sociology, passionate about data, vi
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
 📊 Power BI, Advanced Excel  
 🗃️ SQL, PostgreSQL  
-☁️ Google Cloud, Docker, Streamlit  
 
 ### 🧠 Featured Projects
 
 ### 🌱 Currently Learning
-Machine Learning applied to real-world data.
 
 ### 📫 Get in Touch
-📧 paolajaviera23@gmail.com  
+📧 paolaj.silvajara@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/paolasilvajara)
 
 ⭐ ¡Gracias por visitar mi perfil! | Thanks for visiting my profile!
